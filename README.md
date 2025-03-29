@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm vaibhav Navghare</h1>
 <h3 align="center">Aspiring software engineer 💻 with a passion for coding and problem-solving. Currently pursuing a degree in Computer Science 📚 and exploring the world of open-source projects 🌐.</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Mobile App Development & AIML**
 
 - 📫 How to reach me **navgharevaibhav5@gmail.com**
 
